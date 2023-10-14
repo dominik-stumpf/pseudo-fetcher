@@ -31,5 +31,7 @@
     "@types/node": "^20.6.5",
     "typescript": "^5.1.6"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@biomejs/biome": "^1.2.2"
+  }
 }
